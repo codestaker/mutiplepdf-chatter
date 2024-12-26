@@ -98,8 +98,7 @@ Follow these steps to set up the **Multiple PDF Chatter**:
 ---
 
 ## 🤝 **Contributing**
-This repository is intended for **educational purposes** and currently **does not accept contributions**. It serves as a companion project to a **YouTube tutorial** demonstrating the development process. Feel free to fork, experiment, and customize the app for your own use.
-
+You can contribute to this project 
 ---
 
 ## 📜 **License**
